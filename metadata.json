@@ -1,0 +1,6 @@
+{
+  "name": "HAYER — Сухофрукты и Специи (Telegram Bot & Mini App)",
+  "description": "Telegram-бот, Mini App магазин развесных сухофруктов и орехов HAYER с генерацией термоэтикеток 75x110 мм и веб-админкой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
